@@ -1,5 +1,6 @@
 # NOTE-blog-fjl
-a note for sklearn by fjl_SCDN
+a note for sklearn by fjl_SCDN: 
+<https://blog.csdn.net/fjl_CSDN>
 
 The knowledge include:
 * housing regress
